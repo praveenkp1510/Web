@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58a76cb7.css",
+    "main.js": "/static/js/main.6ad504e8.js",
+    "static/js/453.5e560239.chunk.js": "/static/js/453.5e560239.chunk.js",
+    "static/media/Praveen.JPG": "/static/media/Praveen.e1b431ceae8296c2fb66.JPG",
+    "index.html": "/index.html",
+    "main.58a76cb7.css.map": "/static/css/main.58a76cb7.css.map",
+    "main.6ad504e8.js.map": "/static/js/main.6ad504e8.js.map",
+    "453.5e560239.chunk.js.map": "/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a76cb7.css",
+    "static/js/main.6ad504e8.js"
+  ]
+}
