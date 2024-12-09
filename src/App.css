@@ -1,0 +1,23 @@
+/* Add this in your styles.css for custom text-shadow effect on hover */
+.hover-text-shadow {
+    transition: text-shadow 0.3s ease-in-out; /* Smooth transition for text-shadow */
+  }
+  
+  .hover-text-shadow:hover {
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+  }
+  
+  /* Optional: Adding a smooth transition to icons and text color */
+  .transition-all {
+    transition: all 0.5s ease-in-out; /* Smooth and slow transition for all properties */
+  }
+  
+  .hover\:text-gray-300:hover {
+    color: #d1d5db; /* Gray color for the text when hovered */
+  }
+  
+  /* Transitioning the background color smoothly */
+  .hover\:bg-gradient-to-l:hover {
+    background: linear-gradient(90deg, rgba(99, 102, 241, 1) 0%, rgba(162, 148, 255, 1) 100%); /* Change gradient color */
+  }
+  
